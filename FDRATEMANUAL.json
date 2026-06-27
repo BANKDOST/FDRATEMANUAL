@@ -20,6 +20,13 @@
       "rate_general": "6.70%",
       "rate_senior": "7.20%",
       "logo_url": "https://raw.githubusercontent.com/BANKDOST/FDRATEMANUAL/main/icici.png"
+    },
+    {
+      "bank": "BOB",
+      "period": "555 days",
+      "rate_general": "6.75%",
+      "rate_senior": "7.25%",
+      "logo_url": "https://raw.githubusercontent.com/BANKDOST/FDRATEMANUAL/main/bob.png"
     }
   ]
 }
