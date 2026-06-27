@@ -1,0 +1,22 @@
+{
+  "banks": [
+    {
+      "bank": "SBI",
+      "period": "1 Year to < 2 Years",
+      "rate_general": "6.80%",
+      "rate_senior": "7.30%"
+    },
+    {
+      "bank": "HDFC",
+      "period": "15 Months to < 18 Months",
+      "rate_general": "7.10%",
+      "rate_senior": "7.60%"
+    },
+    {
+      "bank": "ICICI",
+      "period": "1 Year to 389 days",
+      "rate_general": "6.70%",
+      "rate_senior": "7.20%"
+    }
+  ]
+}
